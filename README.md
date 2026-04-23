@@ -46,7 +46,7 @@ The core insight is that sportsbooks price independently and update at different
 | Average return per bet | 2.63% | 3.26% edge |
 | Deployment | Live capital | Live capital |
 | Cumulative ROI | 50% across both strategies combined |
-| Outcome | Accounts stake-limited by operators due to sustained profitability |
+| Outcome | Accounts stake-limited due to sustained profitability |
 
 The stake-limiting outcome is itself a signal. Sportsbooks restrict accounts that win consistently, which validates that the edge being captured is real and non-random.
 
